@@ -1,0 +1,7 @@
+References:
+
+- Initial research into RNNs was done using this article by Gabriel Loye:
+    - https://blog.floydhub.com/a-beginners-guide-on-recurrent-neural-networks-with-pytorch/
+
+- Sequence-to-Sequence model was inspired by and adapted from this model by Lukas Biewald:
+    - https://github.com/lukas/ml-class/blob/master/videos/seq2seq/train.py

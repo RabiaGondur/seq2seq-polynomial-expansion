@@ -1,0 +1,10 @@
+
+REQUIREMENTS USED ON MACOS:
+- python 3.8.13
+- tensorflow-macos 2.9.2
+- numpy 1.22.4
+
+REQUIREMENTS USED ON GOOGLE COLAB:
+- python 3.7.13
+- tensorflow 2.8.2
+- numpy 1.21.6

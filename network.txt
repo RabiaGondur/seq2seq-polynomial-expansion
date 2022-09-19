@@ -1,0 +1,19 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ lstm (LSTM)                 (None, 512)               1146880   
+                                                                 
+ repeat_vector (RepeatVector  (None, 29, 512)          0         
+ )                                                               
+                                                                 
+ lstm_1 (LSTM)               (None, 29, 512)           2099200   
+                                                                 
+ time_distributed (TimeDistr  (None, 29, 47)           24111     
+ ibuted)                                                         
+                                                                 
+=================================================================
+Total params: 3,270,191
+Trainable params: 3,270,191
+Non-trainable params: 0
+_________________________________________________________________
